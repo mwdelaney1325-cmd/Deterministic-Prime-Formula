@@ -1,6 +1,5 @@
 # Deterministic-Prime-Formula
 Deterministic formula generating prime numbers with verification. 
-# Deterministic Prime Formula 
 
 This repository contains a single deterministic algebraic construction that generates prime values from a closed, discrete structure. 
 
@@ -19,4 +18,6 @@ No divisibility testing is performed.
 
 --- 
 
-## Scope This repository contains the formula itself.
+## Scope 
+
+This repository contains the formula itself.
