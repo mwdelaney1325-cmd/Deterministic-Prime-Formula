@@ -1,5 +1,5 @@
 > This file is a verbatim mirror of README.md.  
-> README.md is the authoritative specification.
+> README.md is the authoritative specification. 
 # Deterministic Admissibility Construction
 
 Executable specification defining a deterministic mapping from a discrete
