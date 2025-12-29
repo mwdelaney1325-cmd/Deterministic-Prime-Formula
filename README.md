@@ -1,6 +1,13 @@
 # Deterministic-Prime-Formula
 Deterministic formula generating prime numbers with verification. 
-# Deterministic Prime Formula This repository contains a single deterministic algebraic construction that generates prime values from a closed, discrete structure. The result is expressed as a formula with a uniqueness (admissibility) criterion. No probabilistic methods are used. No divisibility testing is performed. 
+# Deterministic Prime Formula 
+
+This repository contains a single deterministic algebraic construction that generates prime values from a closed, discrete structure. 
+
+The result is expressed as a formula with a uniqueness (admissibility) criterion. 
+
+No probabilistic methods are used. 
+No divisibility testing is performed. 
 
 --- 
 
