@@ -52,15 +52,15 @@ Define the integer readout:
 
 ### 4. Multiplicity
 
-Define the multiplicity of an integer value
-
-\( x \): 
+Define the multiplicity of an integer value \( x \): 
 
 \[ \mu(x) := \#\{ i \in \mathbb{N} : L(i) = x \} \] 
 
 --- 
 
-### 5. Admissibility Define the admissibility predicate:
+### 5. Admissibility 
+
+Define the admissibility predicate:
 
 \[ \mathrm{Adm}(x) := \begin{cases} 1 & \text{if } \mu(x) = 1 \\ 0 & \text{otherwise} \end{cases} \] 
 
